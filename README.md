@@ -36,7 +36,6 @@ SCHOOL_EMAIL_SENDER/
 
 ```bash
 git clone https://github.com/nithishkumar86/School_Management.git
-cd School_Management
 ```
 
 ### 2️⃣ Create Virtual Environment
@@ -74,6 +73,18 @@ EMAIL_PASSWORD=your_email_password
 Make sure `.env` is added to `.gitignore`.
 
 ---
+
+## Install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+
+## ▶ Change Directory
+
+```bash
+cd "CREWAI_AGENT"
+```
 
 ## ▶ Running the Project
 
@@ -113,4 +124,5 @@ For issues or feature requests:
 
 * Open an issue on GitHub
 * Contact the project maintainer
+
 
