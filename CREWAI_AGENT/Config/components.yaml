@@ -1,0 +1,25 @@
+model:
+  provider: "groq"
+  model: "llama-3.3-70b-versatile"
+  temperature: 0.3
+  max_tokens: 2000
+  timeout: 180
+
+model1:
+  provider: "openrouter"
+  model: "mistralai/mistral-small-24b-instruct-2501:free"
+  temperature: 0.3
+  max_tokens: 2000
+  timeout: 180
+
+model2:
+  provider: "ollama"
+  model: "phi3:3.8b"
+  baseurl: "http://localhost:11434"
+
+# model3:
+#   provider: "gemini"
+#   model: "gemini-1.5-pro"
+#   temperature: 0.7
+
+

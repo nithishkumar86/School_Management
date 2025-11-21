@@ -1,0 +1,7 @@
+Roll_No,student_name,Tamil,English,Maths,Science,Social,parent_email,attendance_Percentage,pass_all,Total,p_ok
+1,Aarav,54,84,54,60,100,nkumar861019@gmail.com,69.19,True,352,False
+2,Diya,54,49,85,51,83,mkumar861019@gmail.com,75.12,True,322,False
+4,Meena,44,86,68,100,72,mkumar861019@gmail.com,62.35,True,370,False
+7,Vikram,58,96,69,65,50,nkumar861019@gmail.com,62.82,True,338,False
+8,Priya,55,91,98,72,66,mkumar861019@gmail.com,61.81,True,382,False
+10,Sneha,66,50,62,95,51,mkumar861019@gmail.com,68.74,True,324,False

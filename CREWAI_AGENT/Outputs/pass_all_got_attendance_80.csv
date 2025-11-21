@@ -1,0 +1,5 @@
+Roll_No,student_name,Tamil,English,Maths,Science,Social,parent_email,attendance_Percentage,pass_all,Total,p_ok
+3,Karthik,71,77,80,37,82,nkumar861019@gmail.com,96.19,True,347,True
+5,Ravi,38,63,43,93,45,nkumar861019@gmail.com,96.39,True,282,True
+6,Lakshmi,47,95,53,38,71,mkumar861019@gmail.com,98.6,True,304,True
+9,Rahul,67,65,71,92,71,nkumar861019@gmail.com,96.96,True,366,True
