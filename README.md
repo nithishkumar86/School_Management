@@ -78,17 +78,7 @@ Make sure `.env` is added to `.gitignore`.
 ## ▶ Running the Project
 
 ```bash
-python main.py
-```
-
----
-
-## 🧪 Testing
-
-To run tests:
-
-```bash
-pytest
+streamlit run frontend.py
 ```
 
 ---
@@ -123,3 +113,4 @@ For issues or feature requests:
 
 * Open an issue on GitHub
 * Contact the project maintainer
+
